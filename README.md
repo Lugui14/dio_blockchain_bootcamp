@@ -5,3 +5,4 @@
 
 📁 Directories: <br />
 - exercices
+  - solidity-freestyle
