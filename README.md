@@ -8,4 +8,5 @@
 - "exercices": classes exercices
   - "solidity-freestyle": learning solidity syntax
   - 
-- "erc20_token": first ERC20 token project (CHALLANGE)
+- "erc20_token": first ERC20 token project (CHALLENGE)
+- "poke_dio": ERC721 token pokemon (CHALLENGE)
