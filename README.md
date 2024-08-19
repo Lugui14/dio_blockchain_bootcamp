@@ -7,5 +7,5 @@
 
 - "exercices": classes exercices
   - "solidity-freestyle": learning solidity syntax
-
--"erc20_token": first ERC20 token project
+  - 
+- "erc20_token": first ERC20 token project (CHALLANGE)
